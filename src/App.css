@@ -1,0 +1,100 @@
+.cover-text-left {
+  position: absolute;
+  top: 50%;
+  left: 20px;
+  transform: translateY(-50%);
+  color: white;
+  text-align: left;
+  padding: 20px;
+  border-radius: 10px; 
+}
+
+.img-fluid {
+  width: 100%;
+  height: auto;
+}
+.cover-text-left {
+  position: absolute;
+  top: 50%;
+  left: 20px;
+  transform: translateY(-50%);
+  color: white;
+  text-align: left;
+  padding: 20px;
+  border-radius: 10px; 
+}
+
+.img-fluid {
+  width: 100%;
+  height: auto;
+}
+
+.container {
+  margin-top: 20px;
+}
+
+h2 {
+  margin-top: 20px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+ul li {
+  margin-bottom: 10px;
+}
+
+ul li strong {
+  font-weight: bold;
+}
+
+.reviews-section .review {
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 10px;
+  margin-bottom: 10px;
+  background-color: rgb(247, 235, 237);
+  padding: 30px;
+}
+
+.reviews-section .review-header {
+  font-weight: bold;
+}
+.fqa{
+  padding: 50px;
+  background-color: rgb(237, 220, 223);
+  border-radius: 50px;
+}
+.accordion-button:not(.collapsed) {
+   background-color: rgb(255, 255, 255);
+   color: #000000;
+}
+/* shipping and design */
+.policy-section {
+  
+  background-color: rgb(247, 235, 237);
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.policy-section h4 {
+  font-weight: 600;
+  margin-bottom: 15px;
+}
+
+.policy-section p,
+.policy-section ul,
+.policy-section ol {
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+.policy-section ul {
+  padding-left: 20px;
+}
+
+.policy-section ol {
+  padding-left: 20px;
+}
