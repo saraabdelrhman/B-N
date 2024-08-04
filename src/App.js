@@ -3,6 +3,7 @@ import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Header from './Components/Header'; // Ensure the path is correct
 import ProductPage from './Components/ProductPage'; // Ensure the path is correct
 import './App.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
 import FAQ from './Components/FAQ';
 import ShippingPolicy from './Components/ShippingPolicy';
 import Footer from './Components/Footer';
